@@ -4,7 +4,7 @@ This repository contains (most of) the lecture slides (or links to the slides) f
 ## Other slides (not PDF) 
 Some slides are not available as PDF, but are available here:
 
-- [Bayesian Skyline Plot and Birth-death Skyline Tutorial](https://tgvaughan.github.io/Skyline_tutorial)- Tim Vaughan (2018-06-20)
+- [Bayesian Skyline Plot and Birth-death Skyline Tutorial](https://tgvaughan.github.io/TTB_Lectures/Skyline_tutorial)- Tim Vaughan (2018-06-20)
 - [Understanding BEAST 2 XML](https://tgvaughan.github.io/TTB_Lectures/XML) - Tim Vaughan (2018-06-21)
 - [Modelling recombination](https://tgvaughan.github.io/TTB_Lectures/ARGs) - Tim Vaughan (2018-06-22)
 
